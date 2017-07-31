@@ -7,7 +7,7 @@
 	<p>
 		This is Peddi Kiran!!Application test<br>
 		It is now 
-		<%= new java.util.Date() %>Hope you’re doing good </p>
+		<%= new java.util.Date() %></p>
 	<p>
 		You are coming from 
 		<%= request.getRemoteAddr()  %></p>
